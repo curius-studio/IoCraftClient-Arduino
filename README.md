@@ -6,9 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-purple)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Arduino library for connecting devices (ESP8266 / ESP32) to **IoCraft** via WebSocket.
-
+Arduino library for connecting devices (ESP8266 / ESP32) to **[IoCraft](https://github.com/curius-studio/IoCraft)** via WebSocket.
 This library simplifies the connection and authentication process, allowing you to interact with Minecraft using a clean and minimal API.
+
+> 🎮 **IoCraft** is a Minecraft Forge mod that exposes a WebSocket server on your LAN, enabling IoT devices and external software to interact with the game. [View the mod repository →](https://github.com/curius-studio/IoCraft)
 
 ---
 
